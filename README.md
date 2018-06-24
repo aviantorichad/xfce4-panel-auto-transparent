@@ -11,3 +11,11 @@ This tool will make your XFCE4 panel become transparent when there is no window 
 <li>input name and description</li>
 <li>on input <b>command</b>, choose this file</li>
 </ul>
+
+<h2>REQUIRES</h2>
+<ul>
+<li>wmctrl</li>
+<li>xprop</li>
+</ul>
+
+ref: https://forum.xfce.org/viewtopic.php?id=11492
