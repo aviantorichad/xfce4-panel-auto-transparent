@@ -10,6 +10,7 @@ This tool will make your XFCE4 panel become transparent when there is no window 
 <li>click [+] Add</li>
 <li>input name and description</li>
 <li>on input <b>command</b>, choose this file</li>
+  <li>reboot</li>
 </ul>
 
 <h2>REQUIRES</h2>
